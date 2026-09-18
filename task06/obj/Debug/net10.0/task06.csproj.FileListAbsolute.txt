@@ -1,0 +1,14 @@
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/bin/Debug/net10.0/task06
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/bin/Debug/net10.0/task06.deps.json
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/bin/Debug/net10.0/task06.runtimeconfig.json
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/bin/Debug/net10.0/task06.dll
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/bin/Debug/net10.0/task06.pdb
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/obj/Debug/net10.0/task06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/obj/Debug/net10.0/task06.AssemblyInfoInputs.cache
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/obj/Debug/net10.0/task06.AssemblyInfo.cs
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/obj/Debug/net10.0/task06.csproj.CoreCompileInputs.cache
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/obj/Debug/net10.0/task06.dll
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/obj/Debug/net10.0/refint/task06.dll
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/obj/Debug/net10.0/task06.pdb
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/obj/Debug/net10.0/task06.genruntimeconfig.cache
+/Users/mykhailoshveika/Desktop/PractiseWork/task06/obj/Debug/net10.0/ref/task06.dll
